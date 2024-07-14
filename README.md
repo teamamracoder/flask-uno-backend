@@ -19,17 +19,18 @@ Make sure you have the following installed:
 
 ## Installation
 1. **Clone the repository:**
+    **contact sujit for access token**
     ```bash
-    git clone https://github.com/teamamracoder/letscode.git
-    cd letscode
+    git clone https://<access-token>@github.com/teamamracoder/flask-uno-backend.git
+    cd flask-uno-backend
     ```
 
 2. **Create a virtual environment:**
     ```bash
-    python -m venv env
+    python -m venv venv
     ```
     ```bash
-    .\env\Scripts\activate
+    .\venv\Scripts\activate
     ```
 
 3. **Install the dependencies:**
